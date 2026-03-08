@@ -1,4 +1,4 @@
-# Upper Body Thermal Referral and Tactile Masking for Localized Feedback
+# Fiery Hands: Designing Thermal Glove through Thermal and Tactile Integration for Virtual Object Manipulation
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](./Documentation/fieryhands.pdf)
 [![Video](https://img.shields.io/badge/Video-Demo-blue)](https://www.youtube.com/watch?v=M_gZlia0lZ8)
